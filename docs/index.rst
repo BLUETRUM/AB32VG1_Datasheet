@@ -34,15 +34,19 @@ Welcome to AB32VG1_Datasheet's documentation!
    functional-description/clock-reset-and-supply-management
    functional-description/analog-to-digital-converter
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Electrical characteristics
-..    :numbered:
+.. toctree::
+   :maxdepth: 2
+   :caption: Electrical characteristics
+   :numbered:
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Package information
-..    :numbered:
+   electrical-characteristics/test
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Package information
+   :numbered:
+
+   package-information/test
 
 .. Indices and tables
 .. ==================

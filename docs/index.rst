@@ -7,12 +7,11 @@ Welcome to AB32VG1_Datasheet's documentation!
 =============================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: General description
+   :maxdepth: 1
+   :caption: Introduction
    :numbered:
 
-   general-description/general
-
+   introduction
 
 .. toctree::
    :maxdepth: 2
@@ -21,8 +20,6 @@ Welcome to AB32VG1_Datasheet's documentation!
 
    device-overview/device-information
    device-overview/block-diagram
-   device-overview/pinouts-and-pin-assignment
-   device-overview/memory-map
    device-overview/clock-tree
 
 .. toctree::
@@ -30,7 +27,7 @@ Welcome to AB32VG1_Datasheet's documentation!
    :caption: Functional description
    :numbered:
 
-   functional-description/architecture
+   functional-description/embedded-flash-memory
    functional-description/clock-reset-and-supply-management
    functional-description/audio-decode
    functional-description/analog-to-digital-converter
@@ -39,6 +36,7 @@ Welcome to AB32VG1_Datasheet's documentation!
    functional-description/integrated-interchip-sound
    functional-description/infrared-receiver
    functional-description/linear-feedback-shift-register-and-cyclic-redundant-check
+   functional-description/low-power-mode
    functional-description/pulse-width-modulation
    functional-description/real-time-clock
    functional-description/secure-digital-memory-control
@@ -48,6 +46,20 @@ Welcome to AB32VG1_Datasheet's documentation!
    functional-description/universal-asynchronous-receiver-transmitter
    functional-description/universal-seria-bus-full-speed
    functional-description/watchdog-timer
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Pinouts and pin description
+   :numbered:
+
+   pinouts-and-pin-description
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Memory mapping
+   :numbered:
+
+   memory-mapping
 
 .. toctree::
    :maxdepth: 2

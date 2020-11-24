@@ -1,2 +1,2 @@
-Analog to digital converter(ADC)
+Digital to analog converter(DAC)
 =================================

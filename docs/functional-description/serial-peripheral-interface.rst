@@ -1,2 +1,2 @@
-Analog to digital converter(ADC)
+Serial peripheral interface(SPI)
 =================================

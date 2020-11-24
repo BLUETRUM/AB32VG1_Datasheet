@@ -1,0 +1,2 @@
+Pinouts and pin assignment
+===========================

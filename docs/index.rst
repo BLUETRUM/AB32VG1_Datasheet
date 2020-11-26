@@ -66,14 +66,15 @@ Welcome to AB32VG1_Datasheet's documentation!
    :caption: Electrical characteristics
    :numbered:
 
-   electrical-characteristics/test
+   electrical-characteristics/parameter-conditions
+   electrical-characteristics/operating-condition
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Package information
    :numbered:
 
-   package-information/test
+   package-information
 
 .. Indices and tables
 .. ==================

@@ -14,26 +14,33 @@ Welcome to AB32VG1_Datasheet's documentation!
    introduction
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Device overview
+   :maxdepth: 1
+   :caption: Description
    :numbered:
 
-   device-overview/device-information
-   device-overview/block-diagram
-   device-overview/clock-tree
+   description
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Device overview
+..    :numbered:
+
+..    device-overview/device-information
+..    device-overview/block-diagram
+..    device-overview/clock-tree
 
 .. toctree::
    :maxdepth: 2
    :caption: Functional description
    :numbered:
 
-   functional-description/embedded-flash-memory
-   functional-description/clock-reset-and-supply-management
+   functional-description/memories
+   functional-description/reset-and-clock-controller
+   functional-description/general-purpose-inputs-outputs
    functional-description/audio-decode
    functional-description/analog-to-digital-converter
    functional-description/digital-to-analog-converter
-   functional-description/general-purpose-inputs-outputs
-   functional-description/integrated-interchip-sound
+   .. functional-description/integrated-interchip-sound
    functional-description/infrared-receiver
    functional-description/linear-feedback-shift-register-and-cyclic-redundant-check
    functional-description/low-power-mode
@@ -41,7 +48,7 @@ Welcome to AB32VG1_Datasheet's documentation!
    functional-description/real-time-clock
    functional-description/secure-digital-memory-control
    functional-description/serial-peripheral-interface
-   functional-description/sony-Philips-digital-interconnect-format
+   .. functional-description/sony-Philips-digital-interconnect-format
    functional-description/timers
    functional-description/universal-asynchronous-receiver-transmitter
    functional-description/universal-seria-bus-full-speed
